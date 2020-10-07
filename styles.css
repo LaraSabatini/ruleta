@@ -11,7 +11,7 @@
     width: 200px;
     position: absolute;
     bottom: 0px;
-    left: 400px;
+    left: 350px;
   }
 
   .economia {
@@ -20,7 +20,8 @@
     width: 200px;
     position: absolute;
     bottom: 0px;
-    left: 605px;
+    left: 583px;
+    right: 783px;
   }
   
   .ambiente {
@@ -29,7 +30,7 @@
     width: 200px;
     position: absolute;
     bottom: 0px;
-    left: 810px;
+    right: 350px;
   }
 
   .marker {
