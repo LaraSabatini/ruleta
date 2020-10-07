@@ -4,10 +4,38 @@
     margin: 0 auto;
     position: relative;
   }
+
+  .sociedad {
+    border-radius: 150px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+    left: 400px;
+  }
+
+  .economia {
+    border-radius: 150px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+    left: 605px;
+  }
   
+  .ambiente {
+    border-radius: 150px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+    left: 810px;
+  }
+
   .marker {
     position: absolute;
-    width: 60px;
+    width: 57px;
+    height: 72px;
     left: 172px;
     top: -20px;
     z-index: 3;
