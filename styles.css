@@ -62,7 +62,7 @@
   }
   
   .blur {
-    animation: blur 10s;
+    animation: blur 3s;
   }
   
   @keyframes blur {
