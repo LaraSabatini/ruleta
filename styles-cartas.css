@@ -1,0 +1,81 @@
+.title{
+    top: 20px;
+    position: absolute;
+    left: 451px;
+}
+
+.title1 {
+    top: 20px;
+    position: absolute;
+    left: 425px;
+}
+
+.title2 {
+    top: 20px;
+    position: absolute;
+    left: 452px;    
+}
+
+.logo1 {
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    left: 89px;
+}
+
+.logo2{
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    left: 404px;
+}
+
+.logo3{
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    right: 404px;
+}
+
+.logo4{
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    right: 89px;
+}
+
+.pregunta1 {
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    left: 89px;
+}
+
+.pregunta2 {
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    left: 404px;
+}
+
+.pregunta3 {
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    right: 404px;
+}
+
+.pregunta4 {
+    position: absolute;
+    width: 255px;
+    height: 336px;
+    top: 150px;
+    right: 89px;
+}
